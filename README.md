@@ -2,7 +2,8 @@
 “Learning and building GenAI systems using LangChain”
 
 Bullet list of planned projects:
-skill analyser and provide resources
+
+Skill analyser and provide resources
 
 PDF Q&A
 
