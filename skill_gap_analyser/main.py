@@ -11,6 +11,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from dotenv import load_dotenv
 from pydantic import BaseModel, Field
 
+
 from models import PredictResponse
 from services import PDFProcessingService, AIExtractionService
 from career_gap_models import CareerGapAnalysisRequest, CareerGapAnalysisResponse
