@@ -10,7 +10,7 @@ langchain==0.2.16
 pydantic==2.5.3
 
 # PDF Processing
-PyMuPDF==1.23.8
+pymupdf==1.22.5
 
 # Configuration
 python-dotenv==1.0.0
