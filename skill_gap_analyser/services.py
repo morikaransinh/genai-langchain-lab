@@ -8,7 +8,7 @@ import json
 from langchain_groq import ChatGroq
 from langchain_core.prompts import ChatPromptTemplate
 
-from models import ExtractedSkillProfile
+from skill_gap_analyser.models import PredictResponse
 
 # Configure logging
 logging.basicConfig(
