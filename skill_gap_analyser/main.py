@@ -12,8 +12,8 @@ from dotenv import load_dotenv
 from pydantic import BaseModel, Field
 
 
-from models import PredictResponse
-from services import PDFProcessingService, AIExtractionService
+from skill_gap_analyser.models import PredictResponse
+from skill_gap_analyser.services import PDFProcessingService
 from career_gap_models import CareerGapAnalysisRequest, CareerGapAnalysisResponse
 from career_gap_service import CareerGapAnalysisService
 
